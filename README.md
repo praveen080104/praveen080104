@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey 👋 I’m Praveen
 
-<!--
-**praveen080104/praveen080104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Studied CS.  
+Currently working, learning, and figuring things out.
 
-Here are some ideas to get you started:
+I code and build things.  
+Mostly into **Python, AI, ML, GenAI**, and **Automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Stuff I Use
+Python • HTML • CSS • JavaScript • PHP • SQL  
+Git & GitHub (learning as I go)
+
+---
+
+### 🎯 Current Mode
+Learning → Building → Improving  
+Repeat 🔁
+
+---
+
+### 📫 Say Hi
+📧 praveen19015433@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/praveen-i-096581368
