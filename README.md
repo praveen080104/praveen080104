@@ -9,7 +9,7 @@ Mostly into **Python, AI, ML, GenAI**, and **Automation**.
 ---
 
 ### 🛠️ Stuff I Use
-Python • HTML • CSS • JavaScript • PHP • SQL  
+Python • HTML • CSS • JavaScript • SQL  
 Git & GitHub (learning as I go)
 
 ---
