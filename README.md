@@ -1,17 +1,21 @@
 # Hey 👋 I’m Praveen
 
 Studied CS.  
+
 Currently working, learning, and figuring things out.
 
 I code and build things.  
+
 Mostly into **Python, AI, ML, GenAI**, and **Automation**.
 
 ---
-
 ### 🛠️ Stuff I Use
 Python • HTML • CSS • JavaScript • SQL  
+
 Git & GitHub (learning as I go)
+
 Vibe Coding
+
 ---
 
 ### 🎯 Current Mode
